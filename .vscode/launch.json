@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calc",
+            "request": "launch",
+            "mainClass": "calculadora4sa.Calc",
+            "projectName": "Calculadora4sa_7fac8b64"
+        }
+    ]
+}
